@@ -1,1 +1,1 @@
-inspired by this repo https://pypi.org/project/parse-dat-url/0.0.1/
+inspired by this repo https://github.com/pfrazee/parse-dat-url
